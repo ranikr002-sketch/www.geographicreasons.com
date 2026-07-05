@@ -1,0 +1,52 @@
+const questions = [
+  {
+    question: "What is the capital of France?",
+    options: ["Berlin", "Madrid", "Paris", "Rome"],
+    answer: 2
+  },
+  {
+    question: "Which is the largest ocean in the world?",
+    options: ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    answer: 2
+  },
+  {
+    question: "Which country is called the Land of the Rising Sun?",
+    options: ["China", "Japan", "Thailand", "South Korea"],
+    answer: 1
+  },
+  {
+    question: "What is the longest river in the world?",
+    options: ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    answer: 1
+  },
+  {
+    question: "Which continent is the Sahara Desert located in?",
+    options: ["Asia", "Africa", "Australia", "Europe"],
+    answer: 1
+  },
+  {
+    question: "Mount Everest is located in which mountain range?",
+    options: ["Alps", "Andes", "Himalayas", "Rockies"],
+    answer: 2
+  },
+  {
+    question: "Which is the smallest continent in the world?",
+    options: ["Europe", "Australia", "Antarctica", "South America"],
+    answer: 1
+  },
+  {
+    question: "Which country has the largest population?",
+    options: ["India", "China", "USA", "Indonesia"],
+    answer: 0
+  },
+  {
+    question: "Which is the largest desert in the world?",
+    options: ["Sahara Desert", "Gobi Desert", "Antarctic Desert", "Kalahari Desert"],
+    answer: 2
+  },
+  {
+    question: "What is the capital of India?",
+    options: ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    answer: 1
+  }
+];
